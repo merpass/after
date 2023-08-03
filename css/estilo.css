@@ -1,0 +1,12 @@
+body{
+    background-color: #dbc0f3;
+}
+.color{
+    background-color:blueviolet ;
+}
+.color:hover{
+    background-color: chocolate;
+}
+.colorPropio{
+    color:#511886
+}
